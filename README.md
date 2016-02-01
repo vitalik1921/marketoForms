@@ -32,20 +32,20 @@ marketo_display_form($form_id);
 * Vitaliy Shebela (vitalik.privat@gmail.com)
 
 ## License
-This file is part of Deployer.
+This file is part of Marketo Forms.
 
-Deployer is free software: you can redistribute it and/or modify
+Marketo Forms is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-Deployer is distributed in the hope that it will be useful,
+Marketo Forms is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with Deployer.  If not, see <http://www.gnu.org/licenses/>.
+along with Marketo Forms.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
