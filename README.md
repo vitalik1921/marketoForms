@@ -1,4 +1,4 @@
-# Infinity Loop
+# Marketo Forms
 Plugin allows to add Marketo forms (http://www.marketo.com/) to the site using shortcodes and function. Also it adds
 useful classes for form fields.
 
